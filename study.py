@@ -5,7 +5,7 @@ if(temperature>=30):
 elif (temperature>20):
     print("Its hot")
 else:
-    print("Its nice weather")
+    print("Its nice weather!!!!!!!!!!!!!!")
 
 
     for i in range(5):
